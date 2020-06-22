@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4f0563a-ab60-4726-b3ca-0bace723202d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1afWIL6kHuirtRHrOq1dNURuCD4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="102" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="308" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Task_9/Task_9" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="utils" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lab8.Main" />
+      <module name="Lab8" />
+      <option name="PROGRAM_PARAMETERS" value="console Input02.txt Output.txt 000" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4f0563a-ab60-4726-b3ca-0bace723202d" name="Default Changelist" comment="" />
+      <created>1587127048044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587127048044</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="369" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587376226076">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="369" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587376226076" />
+    <state x="731" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587129972123">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587129972123" />
+    <state x="340" y="330" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1587235506430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="340" y="330" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587235506430" />
+    <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1590313148041">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1590313148041" />
+    <state x="377" y="409" width="466" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587235523694">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="377" y="409" width="466" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1587235523694" />
+    <state x="210" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587234821292">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="210" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587234821292" />
+    <state x="370" y="395" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1587143648776">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="370" y="395" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1587143648776" />
+    <state x="240" y="211" key="FileChooserDialogImpl" timestamp="1590324993613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="240" y="211" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590324993613" />
+    <state x="300" y="266" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587235083476" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1590324994837">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590324994837" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587376177546" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1590324994837">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590324994837" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587376177544" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1590324994837">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590324994837" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587376177544" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1590324994837">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590324994837" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587376177545" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1587236553660">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587236553660" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1587236553660">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587236553660" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1587236553660">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587236553660" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1587236553660">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587236553660" />
+    <state x="0" y="99" key="SettingsEditor" timestamp="1587235094598">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="99" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587235094598" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1587130362116">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1587130362116" />
+    <state x="304" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1587374556925">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="304" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587374556924" />
+    <state x="305" y="418" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1587160868278">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="305" y="418" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1587160868278" />
+    <state x="380" y="154" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587156659701">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="380" y="154" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587156659701" />
+    <state x="0" y="145" key="new project wizard" timestamp="1587235058469">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="145" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1587235058469" />
+    <state x="244" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1587234940608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="244" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587234940608" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lab8$Main.ic" NAME="Main Coverage Results" MODIFIED="1587135590422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
